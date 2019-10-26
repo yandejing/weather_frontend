@@ -1,28 +1,21 @@
 <template>
-
   <div>
-
-
     <el-form ref="form" v-model="formData" label-width="80px">
       <div>
-        <!--<el-input v-model="location" placeholder="请输入城市名称"></el-input>-->
-        <!--<el-button @click="bClick">点击</el-button>-->
-        <el-input placeholder="请输入内容" v-model="location" class="input-with-select">
-          <el-select v-model="select" slot="prepend" placeholder="请选择">
-            <el-select v-model="location" clearable size="mini" style="width: 180px;">
-              <el-option v-for="item in citys" :key="item.code"
-                         :value="item.code"
-                         :label="item.name"></el-option>
-            </el-select>
-          </el-select>
-          <el-button slot="append" icon="el-icon-search" @click="bClick"></el-button>
-        </el-input>
+        <el-select v-model="location" clearable filterable size="mini" placeholder="请选择城市" style="width: 500px;"
+                   @change="cityChange">
+          <el-option v-for="item in cities" :key="item.code"
+                     :value="item.code"
+                     :label="item.name"></el-option>
+        </el-select>
+        <!--<el-input placeholder="请输入查询的城市" v-model="location"><el-button slot="append" icon="el-icon-search" @click="getWeather"></el-button>-->
       </div>
       <el-form-item label="城市">{{city}}</el-form-item>
       <el-form-item label="更新时间">{{updateTime}}</el-form-item>
-      <el-form-item label="天气">{{tianqi}}</el-form-item>
+      <el-form-item label="天气">{{weather}}</el-form-item>
       <el-form-item label="温度">{{temperature}}</el-form-item>
       <el-form-item label="风速">{{wind}}</el-form-item>
+
     </el-form>
 
 
@@ -37,13 +30,15 @@
     name: "test",
     data() {
       return {
-        location: "beijing",
+        formData: null,
+        location: null,
         dataList: [],
-        citys: [],
+        cities: [],
         data: null,
         city: null,
         updateTime: null,
-        tianqi: null,
+        utcTime: null,
+        weather: null,
         temperature: null,
         wind: null,
         show: true,
@@ -51,9 +46,25 @@
       }
     },
     mounted() {
+      this.getCities();
     },
     methods: {
-      async bClick() {
+      async getCities() {
+        let res = await request({
+          url: api.getCities,
+          method: 'get',
+          data: {}
+        });
+        if (res) {
+          console.log(res);
+          this.cities = res;
+          if (this.cities.length > 0) {
+            this.location = this.cities[0].code;
+            this.getWeather();
+          }
+        }
+      },
+      async getWeather() {
         let res = await request({
           url: api.getWeather,
           method: 'get',
@@ -66,8 +77,9 @@
           this.data = this.dataList[0];
           if (this.data.status == "ok") {
             this.city = this.data.basic.cnty + "-" + this.data.basic.admin_area + "-" + this.data.basic.location;
-            this.tianqi = this.data.now.cond_txt;
-            this.updateTime = this.data.update.loc;
+            this.weather = this.data.now.cond_txt;
+            this.utcTime = this.data.update.utc;
+            this.updateTime = this.UTCformat(this.utcTime);
             this.temperature = this.data.now.tmp + '℃';
             this.wind = this.data.now.wind_spd + '公里/小时';
           } else if (this.data.status == "unknown location") {
@@ -77,12 +89,20 @@
           }
         }
       },
+      async cityChange() {
+        if (this.location) {
+          this.getWeather();
+        }
+      },
+
+      UTCformat(utc) {
+        return (new Date(`${utc}Z`)).toLocaleString()
+      }
+
     },
     computed: {}
 
   }
 </script>
-
 <style scoped>
-
 </style>
