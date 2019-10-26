@@ -1,0 +1,46 @@
+.cke_button__data_fields_label{
+  display:inline-block;
+}
+.cke_button__data_fields_icon{
+  display:none;
+}
+.field-tag{
+  background-color: rgba(64,158,255,.1);
+  display: inline-block;
+  padding: 0 10px;
+  height: 32px;
+  line-height: 30px;
+  font-size: 12px;
+  color: #409eff;
+  border-radius: 4px;
+  box-sizing: border-box;
+  border: 1px solid rgba(64,158,255,.2);
+  white-space: nowrap;
+  float:left;
+  margin:5px;
+  cursor:pointer;
+}
+.field-tag.selected {
+  background-color: rgba(103,194,58,.1);
+  border-color: rgba(103,194,58,.2);
+  color: #67c23a;
+}
+.section-panel{
+  border-radius: 4px;
+  border: 1px solid #ebeef5;
+  background-color: #fff;
+  overflow: hidden;
+  color: #303133;
+  transition: .3s;
+  margin-bottom:10px;
+}
+.section-panel-title{
+  padding: 5px 5px;
+  border-bottom: 1px solid #ebeef5;
+  box-sizing: border-box;
+  background:#f8f8f8;
+}
+.section-panel-body{
+  padding: 5px;
+}
+

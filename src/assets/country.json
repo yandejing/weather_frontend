@@ -1,0 +1,1731 @@
+[
+  {
+    "code_2": "AD",
+    "code_3": "AND",
+    "en_name": "Andorra",
+    "cn_name": "安道尔",
+    "phone_code": "376"
+  },
+  {
+    "code_2": "AE",
+    "code_3": "ARE",
+    "en_name": "United Arab Emirates",
+    "cn_name": "阿拉伯联合酋长国",
+    "phone_code": "971"
+  },
+  {
+    "code_2": "AF",
+    "code_3": "AFG",
+    "en_name": "Afghanistan",
+    "cn_name": "阿富汗",
+    "phone_code": "93"
+  },
+  {
+    "code_2": "AG",
+    "code_3": "ATG",
+    "en_name": "Antigua & Barbuda",
+    "cn_name": "安提瓜和巴布达",
+    "phone_code": "1"
+  },
+  {
+    "code_2": "AI",
+    "code_3": "AIA",
+    "en_name": "Anguilla",
+    "cn_name": "安圭拉",
+    "phone_code": "1"
+  },
+  {
+    "code_2": "AL",
+    "code_3": "ALB",
+    "en_name": "Albania",
+    "cn_name": "阿尔巴尼亚",
+    "phone_code": "355"
+  },
+  {
+    "code_2": "AM",
+    "code_3": "ARM",
+    "en_name": "Armenia",
+    "cn_name": "亚美尼亚",
+    "phone_code": "374"
+  },
+  {
+    "code_2": "AO",
+    "code_3": "AGO",
+    "en_name": "Angola",
+    "cn_name": "安哥拉",
+    "phone_code": "244"
+  },
+  {
+    "code_2": "AQ",
+    "code_3": "ATA",
+    "en_name": "Antarctica",
+    "cn_name": "南极洲",
+    "phone_code": "672"
+  },
+  {
+    "code_2": "AR",
+    "code_3": "ARG",
+    "en_name": "Argentina",
+    "cn_name": "阿根廷",
+    "phone_code": "54"
+  },
+  {
+    "code_2": "AS",
+    "code_3": "ASM",
+    "en_name": "American Samoa",
+    "cn_name": "美属萨摩亚",
+    "phone_code": "1"
+  },
+  {
+    "code_2": "AT",
+    "code_3": "AUT",
+    "en_name": "Austria",
+    "cn_name": "奥地利",
+    "phone_code": "43"
+  },
+  {
+    "code_2": "AU",
+    "code_3": "AUS",
+    "en_name": "Australia",
+    "cn_name": "澳大利亚",
+    "phone_code": "61"
+  },
+  {
+    "code_2": "AW",
+    "code_3": "ABW",
+    "en_name": "Aruba",
+    "cn_name": "阿鲁巴",
+    "phone_code": "297"
+  },
+  {
+    "code_2": "AX",
+    "code_3": "ALA",
+    "en_name": "?aland Island",
+    "cn_name": "奥兰群岛",
+    "phone_code": "(null)"
+  },
+  {
+    "code_2": "AZ",
+    "code_3": "AZE",
+    "en_name": "Azerbaijan",
+    "cn_name": "阿塞拜疆",
+    "phone_code": "994"
+  },
+  {
+    "code_2": "BA",
+    "code_3": "BIH",
+    "en_name": "Bosnia & Herzegovina",
+    "cn_name": "波斯尼亚和黑塞哥维那",
+    "phone_code": "387"
+  },
+  {
+    "code_2": "BB",
+    "code_3": "BRB",
+    "en_name": "Barbados",
+    "cn_name": "巴巴多斯",
+    "phone_code": "1"
+  },
+  {
+    "code_2": "BD",
+    "code_3": "BGD",
+    "en_name": "Bangladesh",
+    "cn_name": "孟加拉国",
+    "phone_code": "880"
+  },
+  {
+    "code_2": "BE",
+    "code_3": "BEL",
+    "en_name": "Belgium",
+    "cn_name": "比利时",
+    "phone_code": "32"
+  },
+  {
+    "code_2": "BF",
+    "code_3": "BFA",
+    "en_name": "Burkina",
+    "cn_name": "布基纳法索",
+    "phone_code": "226"
+  },
+  {
+    "code_2": "BG",
+    "code_3": "BGR",
+    "en_name": "Bulgaria",
+    "cn_name": "保加利亚",
+    "phone_code": "359"
+  },
+  {
+    "code_2": "BH",
+    "code_3": "BHR",
+    "en_name": "Bahrain",
+    "cn_name": "巴林",
+    "phone_code": "973"
+  },
+  {
+    "code_2": "BI",
+    "code_3": "BDI",
+    "en_name": "Burundi",
+    "cn_name": "布隆迪",
+    "phone_code": "257"
+  },
+  {
+    "code_2": "BJ",
+    "code_3": "BEN",
+    "en_name": "Benin",
+    "cn_name": "贝宁",
+    "phone_code": "229"
+  },
+  {
+    "code_2": "BL",
+    "code_3": "BLM",
+    "en_name": "Saint Barthélemy",
+    "cn_name": "圣巴泰勒米",
+    "phone_code": "590"
+  },
+  {
+    "code_2": "BM",
+    "code_3": "BMU",
+    "en_name": "Bermuda",
+    "cn_name": "百慕大",
+    "phone_code": "1"
+  },
+  {
+    "code_2": "BN",
+    "code_3": "BRN",
+    "en_name": "Brunei",
+    "cn_name": "文莱",
+    "phone_code": "673"
+  },
+  {
+    "code_2": "BO",
+    "code_3": "BOL",
+    "en_name": "Bolivia",
+    "cn_name": "玻利维亚",
+    "phone_code": "591"
+  },
+  {
+    "code_2": "BQ",
+    "code_3": "BES",
+    "en_name": "Caribbean Netherlands",
+    "cn_name": "荷兰加勒比区",
+    "phone_code": "599"
+  },
+  {
+    "code_2": "BR",
+    "code_3": "BRA",
+    "en_name": "Brazil",
+    "cn_name": "巴西",
+    "phone_code": "55"
+  },
+  {
+    "code_2": "BS",
+    "code_3": "BHS",
+    "en_name": "The Bahamas",
+    "cn_name": "巴哈马",
+    "phone_code": "1"
+  },
+  {
+    "code_2": "BT",
+    "code_3": "BTN",
+    "en_name": "Bhutan",
+    "cn_name": "不丹",
+    "phone_code": "975"
+  },
+  {
+    "code_2": "BV",
+    "code_3": "BVT",
+    "en_name": "Bouvet Island",
+    "cn_name": "布维岛",
+    "phone_code": "(null)"
+  },
+  {
+    "code_2": "BW",
+    "code_3": "BWA",
+    "en_name": "Botswana",
+    "cn_name": "博茨瓦纳",
+    "phone_code": "267"
+  },
+  {
+    "code_2": "BY",
+    "code_3": "BLR",
+    "en_name": "Belarus",
+    "cn_name": "白俄罗斯",
+    "phone_code": "375"
+  },
+  {
+    "code_2": "BZ",
+    "code_3": "BLZ",
+    "en_name": "Belize",
+    "cn_name": "伯利兹",
+    "phone_code": "501"
+  },
+  {
+    "code_2": "CA",
+    "code_3": "CAN",
+    "en_name": "Canada",
+    "cn_name": "加拿大",
+    "phone_code": "1"
+  },
+  {
+    "code_2": "CC",
+    "code_3": "CCK",
+    "en_name": "Cocos (Keeling) Islands",
+    "cn_name": "科科斯（基林）群岛",
+    "phone_code": "61"
+  },
+  {
+    "code_2": "CF",
+    "code_3": "CAF",
+    "en_name": "Central African Republic",
+    "cn_name": "中非共和国",
+    "phone_code": "236"
+  },
+  {
+    "code_2": "CH",
+    "code_3": "CHE",
+    "en_name": "Switzerland",
+    "cn_name": "瑞士",
+    "phone_code": "41"
+  },
+  {
+    "code_2": "CL",
+    "code_3": "CHL",
+    "en_name": "Chile",
+    "cn_name": "智利",
+    "phone_code": "56"
+  },
+  {
+    "code_2": "CM",
+    "code_3": "CMR",
+    "en_name": "Cameroon",
+    "cn_name": "喀麦隆",
+    "phone_code": "237"
+  },
+  {
+    "code_2": "CO",
+    "code_3": "COL",
+    "en_name": "Colombia",
+    "cn_name": "哥伦比亚",
+    "phone_code": "57"
+  },
+  {
+    "code_2": "CR",
+    "code_3": "CRI",
+    "en_name": "Costa Rica",
+    "cn_name": "哥斯达黎加",
+    "phone_code": "506"
+  },
+  {
+    "code_2": "CU",
+    "code_3": "CUB",
+    "en_name": "Cuba",
+    "cn_name": "古巴",
+    "phone_code": "53"
+  },
+  {
+    "code_2": "CV",
+    "code_3": "CPV",
+    "en_name": "Cape Verde",
+    "cn_name": "佛得角",
+    "phone_code": "238"
+  },
+  {
+    "code_2": "CX",
+    "code_3": "CXR",
+    "en_name": "Christmas Island",
+    "cn_name": "圣诞岛",
+    "phone_code": "61"
+  },
+  {
+    "code_2": "CY",
+    "code_3": "CYP",
+    "en_name": "Cyprus",
+    "cn_name": "塞浦路斯",
+    "phone_code": "537"
+  },
+  {
+    "code_2": "CZ",
+    "code_3": "CZE",
+    "en_name": "Czech Republic",
+    "cn_name": "捷克共和国",
+    "phone_code": "420"
+  },
+  {
+    "code_2": "DE",
+    "code_3": "DEU",
+    "en_name": "Germany",
+    "cn_name": "德国",
+    "phone_code": "49"
+  },
+  {
+    "code_2": "DJ",
+    "code_3": "DJI",
+    "en_name": "Djibouti",
+    "cn_name": "吉布提",
+    "phone_code": "253"
+  },
+  {
+    "code_2": "DK",
+    "code_3": "DNK",
+    "en_name": "Denmark",
+    "cn_name": "丹麦",
+    "phone_code": "45"
+  },
+  {
+    "code_2": "DM",
+    "code_3": "DMA",
+    "en_name": "Dominica",
+    "cn_name": "多米尼克",
+    "phone_code": "1"
+  },
+  {
+    "code_2": "DO",
+    "code_3": "DOM",
+    "en_name": "Dominican Republic",
+    "cn_name": "多米尼加共和国",
+    "phone_code": "1"
+  },
+  {
+    "code_2": "DZ",
+    "code_3": "DZA",
+    "en_name": "Algeria",
+    "cn_name": "阿尔及利亚",
+    "phone_code": "213"
+  },
+  {
+    "code_2": "EC",
+    "code_3": "ECU",
+    "en_name": "Ecuador",
+    "cn_name": "厄瓜多尔",
+    "phone_code": "593"
+  },
+  {
+    "code_2": "EE",
+    "code_3": "EST",
+    "en_name": "Estonia",
+    "cn_name": "爱沙尼亚",
+    "phone_code": "372"
+  },
+  {
+    "code_2": "EG",
+    "code_3": "EGY",
+    "en_name": "Egypt",
+    "cn_name": "埃及",
+    "phone_code": "20"
+  },
+  {
+    "code_2": "EH",
+    "code_3": "ESH",
+    "en_name": "Western Sahara",
+    "cn_name": "西撒哈拉",
+    "phone_code": "210"
+  },
+  {
+    "code_2": "ER",
+    "code_3": "ERI",
+    "en_name": "Eritrea",
+    "cn_name": "厄立特里亚",
+    "phone_code": "291"
+  },
+  {
+    "code_2": "ES",
+    "code_3": "ESP",
+    "en_name": "Spain",
+    "cn_name": "西班牙",
+    "phone_code": "34"
+  },
+  {
+    "code_2": "FI",
+    "code_3": "FIN",
+    "en_name": "Finland",
+    "cn_name": "芬兰",
+    "phone_code": "358"
+  },
+  {
+    "code_2": "FJ",
+    "code_3": "FJI",
+    "en_name": "Fiji",
+    "cn_name": "斐济",
+    "phone_code": "679"
+  },
+  {
+    "code_2": "FK",
+    "code_3": "FLK",
+    "en_name": "Falkland Islands",
+    "cn_name": "福克兰群岛",
+    "phone_code": "500"
+  },
+  {
+    "code_2": "FM",
+    "code_3": "FSM",
+    "en_name": "Federated States of Micronesia",
+    "cn_name": "密克罗尼西亚",
+    "phone_code": "691"
+  },
+  {
+    "code_2": "FO",
+    "code_3": "FRO",
+    "en_name": "Faroe Islands",
+    "cn_name": "法罗群岛",
+    "phone_code": "298"
+  },
+  {
+    "code_2": "FR",
+    "code_3": "FRA",
+    "en_name": "France",
+    "cn_name": "法国",
+    "phone_code": "33"
+  },
+  {
+    "code_2": "GA",
+    "code_3": "GAB",
+    "en_name": "Gabon",
+    "cn_name": "加蓬",
+    "phone_code": "241"
+  },
+  {
+    "code_2": "GD",
+    "code_3": "GRD",
+    "en_name": "Grenada",
+    "cn_name": "格林纳达",
+    "phone_code": "1"
+  },
+  {
+    "code_2": "GE",
+    "code_3": "GEO",
+    "en_name": "Georgia",
+    "cn_name": "格鲁吉亚",
+    "phone_code": "995"
+  },
+  {
+    "code_2": "GF",
+    "code_3": "GUF",
+    "en_name": "French Guiana",
+    "cn_name": "法属圭亚那",
+    "phone_code": "594"
+  },
+  {
+    "code_2": "GH",
+    "code_3": "GHA",
+    "en_name": "Ghana",
+    "cn_name": "加纳",
+    "phone_code": "233"
+  },
+  {
+    "code_2": "GI",
+    "code_3": "GIB",
+    "en_name": "Gibraltar",
+    "cn_name": "直布罗陀",
+    "phone_code": "350"
+  },
+  {
+    "code_2": "GL",
+    "code_3": "GRL",
+    "en_name": "Greenland",
+    "cn_name": "格陵兰",
+    "phone_code": "299"
+  },
+  {
+    "code_2": "GN",
+    "code_3": "GIN",
+    "en_name": "Guinea",
+    "cn_name": "几内亚",
+    "phone_code": "224"
+  },
+  {
+    "code_2": "GP",
+    "code_3": "GLP",
+    "en_name": "Guadeloupe",
+    "cn_name": "瓜德罗普",
+    "phone_code": "590"
+  },
+  {
+    "code_2": "GQ",
+    "code_3": "GNQ",
+    "en_name": "Equatorial Guinea",
+    "cn_name": "赤道几内亚",
+    "phone_code": "240"
+  },
+  {
+    "code_2": "GR",
+    "code_3": "GRC",
+    "en_name": "Greece",
+    "cn_name": "希腊",
+    "phone_code": "30"
+  },
+  {
+    "code_2": "GS",
+    "code_3": "SGS",
+    "en_name": "South Georgia and the South Sandwich Islands",
+    "cn_name": "南乔治亚岛和南桑威齐群岛",
+    "phone_code": "500"
+  },
+  {
+    "code_2": "GT",
+    "code_3": "GTM",
+    "en_name": "Guatemala",
+    "cn_name": "危地马拉",
+    "phone_code": "502"
+  },
+  {
+    "code_2": "GU",
+    "code_3": "GUM",
+    "en_name": "Guam",
+    "cn_name": "关岛",
+    "phone_code": "1"
+  },
+  {
+    "code_2": "GW",
+    "code_3": "GNB",
+    "en_name": "Guinea-Bissau",
+    "cn_name": "几内亚比绍",
+    "phone_code": "245"
+  },
+  {
+    "code_2": "GY",
+    "code_3": "GUY",
+    "en_name": "Guyana",
+    "cn_name": "圭亚那",
+    "phone_code": "595"
+  },
+  {
+    "code_2": "HK",
+    "code_3": "HKG",
+    "en_name": "Hong Kong",
+    "cn_name": "中国香港特别行政区",
+    "phone_code": "852"
+  },
+  {
+    "code_2": "HM",
+    "code_3": "HMD",
+    "en_name": "Heard Island and McDonald Islands",
+    "cn_name": "赫德岛和麦克唐纳群岛",
+    "phone_code": "(null)"
+  },
+  {
+    "code_2": "HN",
+    "code_3": "HND",
+    "en_name": "Honduras",
+    "cn_name": "洪都拉斯",
+    "phone_code": "504"
+  },
+  {
+    "code_2": "HR",
+    "code_3": "HRV",
+    "en_name": "Croatia",
+    "cn_name": "克罗地亚",
+    "phone_code": "385"
+  },
+  {
+    "code_2": "HT",
+    "code_3": "HTI",
+    "en_name": "Haiti",
+    "cn_name": "海地",
+    "phone_code": "509"
+  },
+  {
+    "code_2": "HU",
+    "code_3": "HUN",
+    "en_name": "Hungary",
+    "cn_name": "匈牙利",
+    "phone_code": "36"
+  },
+  {
+    "code_2": "ID",
+    "code_3": "IDN",
+    "en_name": "Indonesia",
+    "cn_name": "印度尼西亚",
+    "phone_code": "62"
+  },
+  {
+    "code_2": "IE",
+    "code_3": "IRL",
+    "en_name": "Ireland",
+    "cn_name": "爱尔兰",
+    "phone_code": "353"
+  },
+  {
+    "code_2": "IL",
+    "code_3": "ISR",
+    "en_name": "Israel",
+    "cn_name": "以色列",
+    "phone_code": "972"
+  },
+  {
+    "code_2": "IM",
+    "code_3": "IMN",
+    "en_name": "Isle of Man",
+    "cn_name": "曼岛",
+    "phone_code": "44"
+  },
+  {
+    "code_2": "IN",
+    "code_3": "IND",
+    "en_name": "India",
+    "cn_name": "印度",
+    "phone_code": "91"
+  },
+  {
+    "code_2": "IO",
+    "code_3": "IOT",
+    "en_name": "British Indian Ocean Territory",
+    "cn_name": "英属印度洋领地",
+    "phone_code": "246"
+  },
+  {
+    "code_2": "IQ",
+    "code_3": "IRQ",
+    "en_name": "Iraq",
+    "cn_name": "伊拉克",
+    "phone_code": "964"
+  },
+  {
+    "code_2": "IR",
+    "code_3": "IRN",
+    "en_name": "Iran",
+    "cn_name": "伊朗",
+    "phone_code": "98"
+  },
+  {
+    "code_2": "IS",
+    "code_3": "ISL",
+    "en_name": "Iceland",
+    "cn_name": "冰岛",
+    "phone_code": "354"
+  },
+  {
+    "code_2": "IT",
+    "code_3": "ITA",
+    "en_name": "Italy",
+    "cn_name": "意大利",
+    "phone_code": "39"
+  },
+  {
+    "code_2": "JE",
+    "code_3": "JEY",
+    "en_name": "Jersey",
+    "cn_name": "泽西岛",
+    "phone_code": "44"
+  },
+  {
+    "code_2": "JM",
+    "code_3": "JAM",
+    "en_name": "Jamaica",
+    "cn_name": "牙买加",
+    "phone_code": "1"
+  },
+  {
+    "code_2": "JO",
+    "code_3": "JOR",
+    "en_name": "Jordan",
+    "cn_name": "约旦",
+    "phone_code": "962"
+  },
+  {
+    "code_2": "JP",
+    "code_3": "JPN",
+    "en_name": "Japan",
+    "cn_name": "日本",
+    "phone_code": "81"
+  },
+  {
+    "code_2": "KH",
+    "code_3": "KHM",
+    "en_name": "Cambodia",
+    "cn_name": "柬埔寨",
+    "phone_code": "855"
+  },
+  {
+    "code_2": "KI",
+    "code_3": "KIR",
+    "en_name": "Kiribati",
+    "cn_name": "基里巴斯",
+    "phone_code": "686"
+  },
+  {
+    "code_2": "KM",
+    "code_3": "COM",
+    "en_name": "The Comoros",
+    "cn_name": "科摩罗",
+    "phone_code": "269"
+  },
+  {
+    "code_2": "KW",
+    "code_3": "KWT",
+    "en_name": "Kuwait",
+    "cn_name": "科威特",
+    "phone_code": "965"
+  },
+  {
+    "code_2": "KY",
+    "code_3": "CYM",
+    "en_name": "Cayman Islands",
+    "cn_name": "开曼群岛",
+    "phone_code": "345"
+  },
+  {
+    "code_2": "LB",
+    "code_3": "LBN",
+    "en_name": "Lebanon",
+    "cn_name": "黎巴嫩",
+    "phone_code": "961"
+  },
+  {
+    "code_2": "LI",
+    "code_3": "LIE",
+    "en_name": "Liechtenstein",
+    "cn_name": "列支敦士登",
+    "phone_code": "423"
+  },
+  {
+    "code_2": "LK",
+    "code_3": "LKA",
+    "en_name": "Sri Lanka",
+    "cn_name": "斯里兰卡",
+    "phone_code": "94"
+  },
+  {
+    "code_2": "LR",
+    "code_3": "LBR",
+    "en_name": "Liberia",
+    "cn_name": "利比里亚",
+    "phone_code": "231"
+  },
+  {
+    "code_2": "LS",
+    "code_3": "LSO",
+    "en_name": "Lesotho",
+    "cn_name": "莱索托",
+    "phone_code": "266"
+  },
+  {
+    "code_2": "LT",
+    "code_3": "LTU",
+    "en_name": "Lithuania",
+    "cn_name": "立陶宛",
+    "phone_code": "370"
+  },
+  {
+    "code_2": "LU",
+    "code_3": "LUX",
+    "en_name": "Luxembourg",
+    "cn_name": "卢森堡",
+    "phone_code": "352"
+  },
+  {
+    "code_2": "LV",
+    "code_3": "LVA",
+    "en_name": "Latvia",
+    "cn_name": "拉脱维亚",
+    "phone_code": "371"
+  },
+  {
+    "code_2": "LY",
+    "code_3": "LBY",
+    "en_name": "Libya",
+    "cn_name": "利比亚",
+    "phone_code": "218"
+  },
+  {
+    "code_2": "MA",
+    "code_3": "MAR",
+    "en_name": "Morocco",
+    "cn_name": "摩洛哥",
+    "phone_code": "212"
+  },
+  {
+    "code_2": "MC",
+    "code_3": "MCO",
+    "en_name": "Monaco",
+    "cn_name": "摩纳哥",
+    "phone_code": "377"
+  },
+  {
+    "code_2": "MD",
+    "code_3": "MDA",
+    "en_name": "Moldova",
+    "cn_name": "摩尔多瓦",
+    "phone_code": "373"
+  },
+  {
+    "code_2": "ME",
+    "code_3": "MNE",
+    "en_name": "Montenegro",
+    "cn_name": "黑山",
+    "phone_code": "382"
+  },
+  {
+    "code_2": "MF",
+    "code_3": "MAF",
+    "en_name": "Saint Martin (France)",
+    "cn_name": "法属圣马丁",
+    "phone_code": "590"
+  },
+  {
+    "code_2": "MG",
+    "code_3": "MDG",
+    "en_name": "Madagascar",
+    "cn_name": "马达加斯加",
+    "phone_code": "261"
+  },
+  {
+    "code_2": "MH",
+    "code_3": "MHL",
+    "en_name": "Marshall islands",
+    "cn_name": "马绍尔群岛",
+    "phone_code": "692"
+  },
+  {
+    "code_2": "MK",
+    "code_3": "MKD",
+    "en_name": "Republic of Macedonia (FYROM)",
+    "cn_name": "马其顿",
+    "phone_code": "389"
+  },
+  {
+    "code_2": "ML",
+    "code_3": "MLI",
+    "en_name": "Mali",
+    "cn_name": "马里",
+    "phone_code": "223"
+  },
+  {
+    "code_2": "MM",
+    "code_3": "MMR",
+    "en_name": "Myanmar (Burma)",
+    "cn_name": "缅甸",
+    "phone_code": "95"
+  },
+  {
+    "code_2": "MO",
+    "code_3": "MAC",
+    "en_name": "Macao",
+    "cn_name": "中国澳门特别行政区",
+    "phone_code": "853"
+  },
+  {
+    "code_2": "MQ",
+    "code_3": "MTQ",
+    "en_name": "Martinique",
+    "cn_name": "马提尼克",
+    "phone_code": "596"
+  },
+  {
+    "code_2": "MR",
+    "code_3": "MRT",
+    "en_name": "Mauritania",
+    "cn_name": "毛里塔尼亚",
+    "phone_code": "222"
+  },
+  {
+    "code_2": "MS",
+    "code_3": "MSR",
+    "en_name": "Montserrat",
+    "cn_name": "蒙特塞拉特",
+    "phone_code": "1"
+  },
+  {
+    "code_2": "MT",
+    "code_3": "MLT",
+    "en_name": "Malta",
+    "cn_name": "马耳他",
+    "phone_code": "356"
+  },
+  {
+    "code_2": "MV",
+    "code_3": "MDV",
+    "en_name": "Maldives",
+    "cn_name": "马尔代夫",
+    "phone_code": "960"
+  },
+  {
+    "code_2": "MW",
+    "code_3": "MWI",
+    "en_name": "Malawi",
+    "cn_name": "马拉维",
+    "phone_code": "265"
+  },
+  {
+    "code_2": "MX",
+    "code_3": "MEX",
+    "en_name": "Mexico",
+    "cn_name": "墨西哥",
+    "phone_code": "52"
+  },
+  {
+    "code_2": "MY",
+    "code_3": "MYS",
+    "en_name": "Malaysia",
+    "cn_name": "马来西亚",
+    "phone_code": "60"
+  },
+  {
+    "code_2": "NA",
+    "code_3": "NAM",
+    "en_name": "Namibia",
+    "cn_name": "纳米比亚",
+    "phone_code": "264"
+  },
+  {
+    "code_2": "NE",
+    "code_3": "NER",
+    "en_name": "Niger",
+    "cn_name": "尼日尔",
+    "phone_code": "227"
+  },
+  {
+    "code_2": "NF",
+    "code_3": "NFK",
+    "en_name": "Norfolk Island",
+    "cn_name": "诺福克岛",
+    "phone_code": "672"
+  },
+  {
+    "code_2": "NG",
+    "code_3": "NGA",
+    "en_name": "Nigeria",
+    "cn_name": "尼日利亚",
+    "phone_code": "234"
+  },
+  {
+    "code_2": "NI",
+    "code_3": "NIC",
+    "en_name": "Nicaragua",
+    "cn_name": "尼加拉瓜",
+    "phone_code": "505"
+  },
+  {
+    "code_2": "NL",
+    "code_3": "NLD",
+    "en_name": "Netherlands",
+    "cn_name": "荷兰",
+    "phone_code": "31"
+  },
+  {
+    "code_2": "NO",
+    "code_3": "NOR",
+    "en_name": "Norway",
+    "cn_name": "挪威",
+    "phone_code": "47"
+  },
+  {
+    "code_2": "NP",
+    "code_3": "NPL",
+    "en_name": "Nepal",
+    "cn_name": "尼泊尔",
+    "phone_code": "977"
+  },
+  {
+    "code_2": "NR",
+    "code_3": "NRU",
+    "en_name": "Nauru",
+    "cn_name": "瑙鲁",
+    "phone_code": "674"
+  },
+  {
+    "code_2": "OM",
+    "code_3": "OMN",
+    "en_name": "Oman",
+    "cn_name": "阿曼",
+    "phone_code": "968"
+  },
+  {
+    "code_2": "PA",
+    "code_3": "PAN",
+    "en_name": "Panama",
+    "cn_name": "巴拿马",
+    "phone_code": "507"
+  },
+  {
+    "code_2": "PE",
+    "code_3": "PER",
+    "en_name": "Peru",
+    "cn_name": "秘鲁",
+    "phone_code": "51"
+  },
+  {
+    "code_2": "PF",
+    "code_3": "PYF",
+    "en_name": "French polynesia",
+    "cn_name": "法属波利尼西亚",
+    "phone_code": "689"
+  },
+  {
+    "code_2": "PG",
+    "code_3": "PNG",
+    "en_name": "Papua New Guinea",
+    "cn_name": "巴布亚新几内亚",
+    "phone_code": "675"
+  },
+  {
+    "code_2": "PH",
+    "code_3": "PHL",
+    "en_name": "The Philippines",
+    "cn_name": "菲律宾",
+    "phone_code": "63"
+  },
+  {
+    "code_2": "PK",
+    "code_3": "PAK",
+    "en_name": "Pakistan",
+    "cn_name": "巴基斯坦",
+    "phone_code": "92"
+  },
+  {
+    "code_2": "PL",
+    "code_3": "POL",
+    "en_name": "Poland",
+    "cn_name": "波兰",
+    "phone_code": "48"
+  },
+  {
+    "code_2": "PN",
+    "code_3": "PCN",
+    "en_name": "Pitcairn Islands",
+    "cn_name": "皮特凯恩群岛",
+    "phone_code": "872"
+  },
+  {
+    "code_2": "PR",
+    "code_3": "PRI",
+    "en_name": "Puerto Rico",
+    "cn_name": "波多黎各",
+    "phone_code": "1"
+  },
+  {
+    "code_2": "PS",
+    "code_3": "PSE",
+    "en_name": "Palestinian territories",
+    "cn_name": "巴勒斯坦领土",
+    "phone_code": "970"
+  },
+  {
+    "code_2": "PW",
+    "code_3": "PLW",
+    "en_name": "Palau",
+    "cn_name": "帕劳",
+    "phone_code": "680"
+  },
+  {
+    "code_2": "PY",
+    "code_3": "PRY",
+    "en_name": "Paraguay",
+    "cn_name": "巴拉圭",
+    "phone_code": "595"
+  },
+  {
+    "code_2": "QA",
+    "code_3": "QAT",
+    "en_name": "Qatar",
+    "cn_name": "卡塔尔",
+    "phone_code": "974"
+  },
+  {
+    "code_2": "RE",
+    "code_3": "REU",
+    "en_name": "Réunion",
+    "cn_name": "留尼汪",
+    "phone_code": "262"
+  },
+  {
+    "code_2": "RO",
+    "code_3": "ROU",
+    "en_name": "Romania",
+    "cn_name": "罗马尼亚",
+    "phone_code": "40"
+  },
+  {
+    "code_2": "RS",
+    "code_3": "SRB",
+    "en_name": "Serbia",
+    "cn_name": "塞尔维亚",
+    "phone_code": "381"
+  },
+  {
+    "code_2": "RU",
+    "code_3": "RUS",
+    "en_name": "Russian Federation",
+    "cn_name": "俄罗斯",
+    "phone_code": "7"
+  },
+  {
+    "code_2": "RW",
+    "code_3": "RWA",
+    "en_name": "Rwanda",
+    "cn_name": "卢旺达",
+    "phone_code": "250"
+  },
+  {
+    "code_2": "SB",
+    "code_3": "SLB",
+    "en_name": "Solomon Islands",
+    "cn_name": "所罗门群岛",
+    "phone_code": "677"
+  },
+  {
+    "code_2": "SC",
+    "code_3": "SYC",
+    "en_name": "Seychelles",
+    "cn_name": "塞舌尔",
+    "phone_code": "248"
+  },
+  {
+    "code_2": "SD",
+    "code_3": "SDN",
+    "en_name": "Sudan",
+    "cn_name": "苏丹",
+    "phone_code": "249"
+  },
+  {
+    "code_2": "SE",
+    "code_3": "SWE",
+    "en_name": "Sweden",
+    "cn_name": "瑞典",
+    "phone_code": "46"
+  },
+  {
+    "code_2": "SG",
+    "code_3": "SGP",
+    "en_name": "Singapore",
+    "cn_name": "新加坡",
+    "phone_code": "65"
+  },
+  {
+    "code_2": "SI",
+    "code_3": "SVN",
+    "en_name": "Slovenia",
+    "cn_name": "斯洛文尼亚",
+    "phone_code": "386"
+  },
+  {
+    "code_2": "SJ",
+    "code_3": "SJM",
+    "en_name": "Template:Country data SJM Svalbard",
+    "cn_name": "斯瓦尔巴特和扬马延",
+    "phone_code": "47"
+  },
+  {
+    "code_2": "SK",
+    "code_3": "SVK",
+    "en_name": "Slovakia",
+    "cn_name": "斯洛伐克",
+    "phone_code": "421"
+  },
+  {
+    "code_2": "SL",
+    "code_3": "SLE",
+    "en_name": "Sierra Leone",
+    "cn_name": "塞拉利昂",
+    "phone_code": "232"
+  },
+  {
+    "code_2": "SM",
+    "code_3": "SMR",
+    "en_name": "San Marino",
+    "cn_name": "圣马力诺",
+    "phone_code": "378"
+  },
+  {
+    "code_2": "SN",
+    "code_3": "SEN",
+    "en_name": "Senegal",
+    "cn_name": "塞内加尔",
+    "phone_code": "221"
+  },
+  {
+    "code_2": "SO",
+    "code_3": "SOM",
+    "en_name": "Somalia",
+    "cn_name": "索马里",
+    "phone_code": "252"
+  },
+  {
+    "code_2": "SR",
+    "code_3": "SUR",
+    "en_name": "Suriname",
+    "cn_name": "苏里南",
+    "phone_code": "597"
+  },
+  {
+    "code_2": "SS",
+    "code_3": "SSD",
+    "en_name": "South Sudan",
+    "cn_name": "南苏丹",
+    "phone_code": "211"
+  },
+  {
+    "code_2": "ST",
+    "code_3": "STP",
+    "en_name": "Sao Tome & Principe",
+    "cn_name": "圣多美和普林西比",
+    "phone_code": "239"
+  },
+  {
+    "code_2": "SV",
+    "code_3": "SLV",
+    "en_name": "El Salvador",
+    "cn_name": "萨尔瓦多",
+    "phone_code": "503"
+  },
+  {
+    "code_2": "SY",
+    "code_3": "SYR",
+    "en_name": "Syria",
+    "cn_name": "叙利亚",
+    "phone_code": "963"
+  },
+  {
+    "code_2": "SZ",
+    "code_3": "SWZ",
+    "en_name": "Swaziland",
+    "cn_name": "斯威士兰",
+    "phone_code": "268"
+  },
+  {
+    "code_2": "TC",
+    "code_3": "TCA",
+    "en_name": "Turks & Caicos Islands",
+    "cn_name": "特克斯和凯科斯群岛",
+    "phone_code": "1"
+  },
+  {
+    "code_2": "TD",
+    "code_3": "TCD",
+    "en_name": "Chad",
+    "cn_name": "乍得",
+    "phone_code": "235"
+  },
+  {
+    "code_2": "TG",
+    "code_3": "TGO",
+    "en_name": "Togo",
+    "cn_name": "多哥",
+    "phone_code": "228"
+  },
+  {
+    "code_2": "TH",
+    "code_3": "THA",
+    "en_name": "Thailand",
+    "cn_name": "泰国",
+    "phone_code": "66"
+  },
+  {
+    "code_2": "TK",
+    "code_3": "TKL",
+    "en_name": "Tokelau",
+    "cn_name": "托克劳",
+    "phone_code": "690"
+  },
+  {
+    "code_2": "TL",
+    "code_3": "TLS",
+    "en_name": "Timor-Leste (East Timor)",
+    "cn_name": "东帝汶",
+    "phone_code": "670"
+  },
+  {
+    "code_2": "TN",
+    "code_3": "TUN",
+    "en_name": "Tunisia",
+    "cn_name": "突尼斯",
+    "phone_code": "216"
+  },
+  {
+    "code_2": "TO",
+    "code_3": "TON",
+    "en_name": "Tonga",
+    "cn_name": "汤加",
+    "phone_code": "676"
+  },
+  {
+    "code_2": "TR",
+    "code_3": "TUR",
+    "en_name": "Turkey",
+    "cn_name": "土耳其",
+    "phone_code": "90"
+  },
+  {
+    "code_2": "TV",
+    "code_3": "TUV",
+    "en_name": "Tuvalu",
+    "cn_name": "图瓦卢",
+    "phone_code": "688"
+  },
+  {
+    "code_2": "TZ",
+    "code_3": "TZA",
+    "en_name": "Tanzania",
+    "cn_name": "坦桑尼亚",
+    "phone_code": "255"
+  },
+  {
+    "code_2": "UA",
+    "code_3": "UKR",
+    "en_name": "Ukraine",
+    "cn_name": "乌克兰",
+    "phone_code": "380"
+  },
+  {
+    "code_2": "UG",
+    "code_3": "UGA",
+    "en_name": "Uganda",
+    "cn_name": "乌干达",
+    "phone_code": "256"
+  },
+  {
+    "code_2": "US",
+    "code_3": "USA",
+    "en_name": "United States of America (USA)",
+    "cn_name": "美国",
+    "phone_code": "1"
+  },
+  {
+    "code_2": "UY",
+    "code_3": "URY",
+    "en_name": "Uruguay",
+    "cn_name": "乌拉圭",
+    "phone_code": "598"
+  },
+  {
+    "code_2": "VA",
+    "code_3": "VAT",
+    "en_name": "Vatican City (The Holy See)",
+    "cn_name": "梵蒂冈",
+    "phone_code": "379"
+  },
+  {
+    "code_2": "VE",
+    "code_3": "VEN",
+    "en_name": "Venezuela",
+    "cn_name": "委内瑞拉",
+    "phone_code": "58"
+  },
+  {
+    "code_2": "VG",
+    "code_3": "VGB",
+    "en_name": "British Virgin Islands",
+    "cn_name": "英属维京群岛",
+    "phone_code": "1"
+  },
+  {
+    "code_2": "VI",
+    "code_3": "VIR",
+    "en_name": "United States Virgin Islands",
+    "cn_name": "美属维京群岛",
+    "phone_code": "1"
+  },
+  {
+    "code_2": "VN",
+    "code_3": "VNM",
+    "en_name": "Vietnam",
+    "cn_name": "越南",
+    "phone_code": "84"
+  },
+  {
+    "code_2": "WF",
+    "code_3": "WLF",
+    "en_name": "Wallis and Futuna",
+    "cn_name": "瓦利斯和富图纳",
+    "phone_code": "681"
+  },
+  {
+    "code_2": "WS",
+    "code_3": "WSM",
+    "en_name": "Samoa",
+    "cn_name": "萨摩亚",
+    "phone_code": "685"
+  },
+  {
+    "code_2": "YE",
+    "code_3": "YEM",
+    "en_name": "Yemen",
+    "cn_name": "也门",
+    "phone_code": "967"
+  },
+  {
+    "code_2": "YT",
+    "code_3": "MYT",
+    "en_name": "Mayotte",
+    "cn_name": "马约特",
+    "phone_code": "262"
+  },
+  {
+    "code_2": "ZA",
+    "code_3": "ZAF",
+    "en_name": "South Africa",
+    "cn_name": "南非",
+    "phone_code": "27"
+  },
+  {
+    "code_2": "ZM",
+    "code_3": "ZMB",
+    "en_name": "Zambia",
+    "cn_name": "赞比亚",
+    "phone_code": "260"
+  },
+  {
+    "code_2": "ZW",
+    "code_3": "ZWE",
+    "en_name": "Zimbabwe",
+    "cn_name": "津巴布韦",
+    "phone_code": "263"
+  },
+  {
+    "code_2": "CN",
+    "code_3": "CHN",
+    "en_name": "China",
+    "cn_name": "中国",
+    "phone_code": "86"
+  },
+  {
+    "code_2": "CG",
+    "code_3": "COG",
+    "en_name": "Republic of the Congo",
+    "cn_name": "刚果（布）",
+    "phone_code": "242"
+  },
+  {
+    "code_2": "CD",
+    "code_3": "COD",
+    "en_name": "Democratic Republic of the Congo",
+    "cn_name": "刚果（金）",
+    "phone_code": "243"
+  },
+  {
+    "code_2": "MZ",
+    "code_3": "MOZ",
+    "en_name": "Mozambique",
+    "cn_name": "莫桑比克",
+    "phone_code": "258"
+  },
+  {
+    "code_2": "GG",
+    "code_3": "GGY",
+    "en_name": "Guernsey",
+    "cn_name": "根西岛",
+    "phone_code": "44"
+  },
+  {
+    "code_2": "GM",
+    "code_3": "GMB",
+    "en_name": "Gambia",
+    "cn_name": "冈比亚",
+    "phone_code": "220"
+  },
+  {
+    "code_2": "MP",
+    "code_3": "MNP",
+    "en_name": "Northern Mariana Islands",
+    "cn_name": "北马里亚纳群岛",
+    "phone_code": "1"
+  },
+  {
+    "code_2": "ET",
+    "code_3": "ETH",
+    "en_name": "Ethiopia",
+    "cn_name": "埃塞俄比亚",
+    "phone_code": "251"
+  },
+  {
+    "code_2": "NC",
+    "code_3": "NCL",
+    "en_name": "New Caledonia",
+    "cn_name": "新喀里多尼亚",
+    "phone_code": "687"
+  },
+  {
+    "code_2": "VU",
+    "code_3": "VUT",
+    "en_name": "Vanuatu",
+    "cn_name": "瓦努阿图",
+    "phone_code": "678"
+  },
+  {
+    "code_2": "TF",
+    "code_3": "ATF",
+    "en_name": "French Southern Territories",
+    "cn_name": "法属南部领地",
+    "phone_code": "(null)"
+  },
+  {
+    "code_2": "NU",
+    "code_3": "NIU",
+    "en_name": "Niue",
+    "cn_name": "纽埃",
+    "phone_code": "683"
+  },
+  {
+    "code_2": "UM",
+    "code_3": "UMI",
+    "en_name": "United States Minor Outlying Islands",
+    "cn_name": "美国本土外小岛屿",
+    "phone_code": "(null)"
+  },
+  {
+    "code_2": "CK",
+    "code_3": "COK",
+    "en_name": "Cook Islands",
+    "cn_name": "库克群岛",
+    "phone_code": "682"
+  },
+  {
+    "code_2": "GB",
+    "code_3": "GBR",
+    "en_name": "Great Britain (United Kingdom; England)",
+    "cn_name": "英国",
+    "phone_code": "44"
+  },
+  {
+    "code_2": "TT",
+    "code_3": "TTO",
+    "en_name": "Trinidad & Tobago",
+    "cn_name": "特立尼达和多巴哥",
+    "phone_code": "1"
+  },
+  {
+    "code_2": "VC",
+    "code_3": "VCT",
+    "en_name": "St. Vincent & the Grenadines",
+    "cn_name": "圣文森特和格林纳丁斯",
+    "phone_code": "1"
+  },
+  {
+    "code_2": "TW",
+    "code_3": "TWN",
+    "en_name": "Taiwan",
+    "cn_name": "台湾",
+    "phone_code": "886"
+  },
+  {
+    "code_2": "NZ",
+    "code_3": "NZL",
+    "en_name": "New Zealand",
+    "cn_name": "新西兰",
+    "phone_code": "64"
+  },
+  {
+    "code_2": "SA",
+    "code_3": "SAU",
+    "en_name": "Saudi Arabia",
+    "cn_name": "沙特阿拉伯",
+    "phone_code": "966"
+  },
+  {
+    "code_2": "LA",
+    "code_3": "LAO",
+    "en_name": "Laos",
+    "cn_name": "老挝",
+    "phone_code": "856"
+  },
+  {
+    "code_2": "KP",
+    "code_3": "PRK",
+    "en_name": "North Korea",
+    "cn_name": "朝鲜",
+    "phone_code": "850"
+  },
+  {
+    "code_2": "KR",
+    "code_3": "KOR",
+    "en_name": "South Korea",
+    "cn_name": "韩国",
+    "phone_code": "82"
+  },
+  {
+    "code_2": "PT",
+    "code_3": "PRT",
+    "en_name": "Portugal",
+    "cn_name": "葡萄牙",
+    "phone_code": "351"
+  },
+  {
+    "code_2": "KG",
+    "code_3": "KGZ",
+    "en_name": "Kyrgyzstan",
+    "cn_name": "吉尔吉斯斯坦",
+    "phone_code": "996"
+  },
+  {
+    "code_2": "KZ",
+    "code_3": "KAZ",
+    "en_name": "Kazakhstan",
+    "cn_name": "哈萨克斯坦",
+    "phone_code": "77"
+  },
+  {
+    "code_2": "TJ",
+    "code_3": "TJK",
+    "en_name": "Tajikistan",
+    "cn_name": "塔吉克斯坦",
+    "phone_code": "992"
+  },
+  {
+    "code_2": "TM",
+    "code_3": "TKM",
+    "en_name": "Turkmenistan",
+    "cn_name": "土库曼斯坦",
+    "phone_code": "993"
+  },
+  {
+    "code_2": "UZ",
+    "code_3": "UZB",
+    "en_name": "Uzbekistan",
+    "cn_name": "乌兹别克斯坦",
+    "phone_code": "998"
+  },
+  {
+    "code_2": "KN",
+    "code_3": "KNA",
+    "en_name": "St. Kitts & Nevis",
+    "cn_name": "圣基茨和尼维斯",
+    "phone_code": "1"
+  },
+  {
+    "code_2": "PM",
+    "code_3": "SPM",
+    "en_name": "Saint-Pierre and Miquelon",
+    "cn_name": "圣皮埃尔和密克隆群岛",
+    "phone_code": "508"
+  },
+  {
+    "code_2": "SH",
+    "code_3": "SHN",
+    "en_name": "St. Helena & Dependencies",
+    "cn_name": "圣赫勒拿",
+    "phone_code": "290"
+  },
+  {
+    "code_2": "LC",
+    "code_3": "LCA",
+    "en_name": "St. Lucia",
+    "cn_name": "圣卢西亚",
+    "phone_code": "1"
+  },
+  {
+    "code_2": "MU",
+    "code_3": "MUS",
+    "en_name": "Mauritius",
+    "cn_name": "毛里求斯",
+    "phone_code": "230"
+  },
+  {
+    "code_2": "CI",
+    "code_3": "CIV",
+    "en_name": "C?te d'Ivoire",
+    "cn_name": "科特迪瓦",
+    "phone_code": "225"
+  },
+  {
+    "code_2": "KE",
+    "code_3": "KEN",
+    "en_name": "Kenya",
+    "cn_name": "肯尼亚",
+    "phone_code": "254"
+  },
+  {
+    "code_2": "MN",
+    "code_3": "MNG",
+    "en_name": "Mongolia",
+    "cn_name": "蒙古",
+    "phone_code": "976"
+  }
+]

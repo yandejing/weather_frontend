@@ -1,0 +1,7 @@
+{
+    "scm.diffDecorationsGutterWidth": 1,
+    "search.maintainFileSearchCache": true,
+    "search.quickOpen.includeSymbols": true,
+    "search.runInExtensionHost": true,
+    "search.useIgnoreFiles": false
+}
